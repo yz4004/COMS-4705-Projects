@@ -1,12 +1,6 @@
 # COMS 4705 Natural Language Processing Course Projects
 
-# hw1
 
-# hw2
-
-# hw3
-
-# hw4
 
 
 ```
